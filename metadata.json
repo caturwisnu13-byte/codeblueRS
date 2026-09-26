@@ -1,0 +1,6 @@
+{
+  "name": "CodeBlue RS",
+  "description": "Sistem Aktivasi & Respon Cepat Code Blue Rumah Sakit dengan Pelacakan Lokasi Real-Time, Notifikasi Darurat, dan Pemantauan Terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

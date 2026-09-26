@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CodeBlue RS</string>
+    <string name="title_room_requester">Unit Ruangan</string>
+    <string name="title_responder_team">Tim Code Blue</string>
+    <string name="title_supervisor">Pengawas / Komando</string>
+    <string name="btn_activate_codeblue">AKTIFKAN CODE BLUE</string>
+    <string name="status_dispatched">TERKIRIM</string>
+    <string name="status_responding">DALAM PERJALANAN</string>
+    <string name="status_on_scene">TIBA DI LOKASI</string>
+    <string name="status_in_progress">RESUSITASI BERJALAN</string>
+    <string name="status_resolved">TERATASI / SELESAI</string>
+</resources>
